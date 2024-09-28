@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning Pyhton and Java<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently learning on java/python <br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning Pyhton and Java<br>💬 Ask me about java and python <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
