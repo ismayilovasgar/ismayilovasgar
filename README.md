@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Django | PostgreSql | Python | Docker |**
 
-- 📫 How to reach me **kapil0123@gmail.com**
+- 📫 How to reach me **ismayilov.asgarr.21@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kapil0123/](https://www.linkedin.com/in/asgar-ismayilov-64b1a2307/)
 
