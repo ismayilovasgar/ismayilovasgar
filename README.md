@@ -28,7 +28,7 @@
 </p>
 
 ## 🌐 Socials:
-[![LinkedIn height="40" ](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asgar-ismayilov-64b1a2307) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ismayilov.asgarr.21) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ASGAR_44) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asgar-ismayilov-64b1a2307) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ismayilov.asgarr.21) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ASGAR_44) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ismayilovasgar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
