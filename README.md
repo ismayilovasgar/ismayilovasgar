@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Back-End Best Practices**
 
-- 👯 I’m looking to collaborate on [Java and Python](https://github.com/ismayilovasgar)
+- 👯  I’m looking to remote job
 
 - 👨‍💻 All of my projects are available at [https://github.com/ismayilovasgar](https://github.com/ismayilovasgar)
 
