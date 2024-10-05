@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ismayilov.asgarr.21@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kapil0123/](https://www.linkedin.com/in/asgar-ismayilov-64b1a2307/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/asgar-ismayilov-64b1a2307/](https://www.linkedin.com/in/asgar-ismayilov-64b1a2307/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
