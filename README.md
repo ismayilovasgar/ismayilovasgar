@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Back-End Developer from Azerbaijan</h3>
 
 <h1>
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/ismayilovasgar">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0FF700&center=true&vCenter=true&width=1400&height=120&lines=🔧+Building+pipelines+so+smooth,+they+practically+butter+your+toast+🍞;🤝+Let's+connect+🌐" alt="Typing SVG" /> </a>
 </h1>
 
