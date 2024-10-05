@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ASGAR</h1>
-<h3 align="center">A passionate Back-End Developer from Azerbaijan</h3>
+<h1 align="center">I'm ASGAR ISMAYILOV</h1>
+<h3 align="center">A Passionate Back-End Developer </h3>
 
 <h1>
 <a href="https://github.com/ismayilovasgar">
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ismayilovasgar](https://github.com/ismayilovasgar)
 
-- 💬 Ask me about **Django | PostgreSql | Python | Docker |**
+- 💬 Ask me about **Django | PostgreSql | Python |**
 
 - 📫 How to reach me **ismayilov.asgarr.21@gmail.com**
 
