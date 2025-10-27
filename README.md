@@ -21,9 +21,10 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/asgar-ismayilov-64b1a2307/](https://www.linkedin.com/in/asgar-ismayilov-64b1a2307/)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/></a>
+<p align="left">
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img 
 src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img 
