@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ismayilovasgar](https://github.com/ismayilovasgar)
 
-- 💬 Ask me about **Java | Spring | Python | Django | FastAPI | Javascript | PostgreSql |**
+- 💬 Ask me about **| Java | Spring | Python | Django | FastAPI | Javascript | PostgreSql |**
 
 - 📫 How to reach me **ismayilov.asgarr.21@gmail.com**
 
